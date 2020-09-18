@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.angcyo.DslTablayout:TabLayout:1.5.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7625b7bb0c27994efc4238a09c421d4a/jetified-TabLayout-1.5.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7625b7bb0c27994efc4238a09c421d4a/jetified-TabLayout-1.5.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7625b7bb0c27994efc4238a09c421d4a/jetified-TabLayout-1.5.4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.angcyo.DslTablayout/TabLayout/1.5.4/100cb3aebc0f73732ab9c406dab9f78ca885e399/TabLayout-1.5.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

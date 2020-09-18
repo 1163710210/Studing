@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main2.xml",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_disc.xml",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\layout\\layout_disc.xml"
+    }
+]

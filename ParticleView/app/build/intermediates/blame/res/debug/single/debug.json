@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_music1.jpg.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_music1.jpg"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_music2.jpg.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_music2.jpg"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_disc.xml.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\layout\\layout_disc.xml"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_next.png.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_next.png"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_blackground.png.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_blackground.png"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_china.svg.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\raw\\china.svg"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_disc_blackground.png.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_disc_blackground.png"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_seekbar_thumb.png.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_seekbar_thumb.png"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_needle.png.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_needle.png"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_play.png.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_play.png"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_music3.jpg.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_music3.jpg"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pause.png.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_last.png.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_last.png"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\project\\ParticleView-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_disc.png.flat",
+        "source": "E:\\project\\ParticleView-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_disc.png"
+    }
+]

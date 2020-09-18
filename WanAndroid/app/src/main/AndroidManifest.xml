@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.wwy.android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.wwy.android.app.MyApplication"
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity
+            android:name="com.wwy.android.ui.WelcomeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.wwy.android.ui.member.LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.wwy.android.ui.main.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.homemine.activity.MyThemeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.homemine.activity.MyCollectListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.homemine.activity.MyShareListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.homemine.activity.ShareActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.homemine.activity.MyPointActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.homemine.activity.PointRankingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.homemine.activity.SettingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.homemine.activity.MyKuTuActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.homesyetem.SystemActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.homemine.activity.ReadHistoryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.main.search.SearchActivity"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".ui.main.DetailActivity"
+            android:configChanges="orientation|screenSize"
+            android:hardwareAccelerated="true"
+            android:screenOrientation="portrait" />
+        <!-- 头条适配autosize -->
+        <meta-data
+            android:name="design_width_in_dp"
+            android:value="360" />
+        <meta-data
+            android:name="design_height_in_dp"
+            android:value="640" />
+        <!--适配华为（huawei）刘海屏-->
+        <meta-data
+            android:name="android.notch_support"
+            android:value="true" />
+        <!--适配小米（xiaomi）刘海屏-->
+        <meta-data
+            android:name="notch.config"
+            android:value="portrait|landscape" />
+        <!--适配全面屏-->
+        <meta-data
+            android:name="android.max_aspect"
+            android:value="2.4" />
+    </application>
+
+</manifest>
